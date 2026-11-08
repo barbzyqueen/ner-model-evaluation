@@ -112,25 +112,25 @@ The following metrics were used:
 
 Measures the proportion of predicted entities that were correct.
 
-\[
+$$
 Precision = \frac{TP}{TP + FP}
-\]
+$$
 
 ### Recall
 
 Measures the proportion of reference entities that the model correctly identified.
 
-\[
+$$
 Recall = \frac{TP}{TP + FN}
-\]
+$$
 
 ### F1-score
 
 The harmonic mean of precision and recall.
 
-\[
+$$
 F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall}
-\]
+$$
 
 ## Evaluation Results
 
