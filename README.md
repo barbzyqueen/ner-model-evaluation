@@ -87,14 +87,13 @@ The annotation process provided a reference against which the predictions from b
 ### 1. Label Studio Annotation Interface
 
 The screenshot below shows the Label Studio annotation interface used to review named entities in the transcript samples.
-
-![Label Studio annotation interface showing transcript text and entity annotations](images/ner-annotations.png)
+![Label Studio annotation interface](images/ner-annotations.png)
 
 ### 2. Completed Annotation Tasks
 
 This screenshot shows the completed annotation tasks in Label Studio following the annotation review process.
 
-![Label Studio completed annotation tasks](images/completed-ner-annotations.png)
+![Completed annotation tasks](images/completed-ner-annotations.png)
 
 ## Evaluation Methodology
 
@@ -149,13 +148,13 @@ The evaluation was conducted on **34 transcript samples**.
 
 The chart below presents a comparison of precision, recall, and F1-score for the two spaCy models.
 
-![Bar chart comparing precision, recall, and F1-score for en_core_web_sm and en_core_web_lg](images/model-comparison.png)
+![NER model comparison chart](images/model-comparison.png)
 
 ### 2. Evaluation Results from Python
 
 The screenshot below shows the evaluation results generated in the Jupyter Notebook, including the true positives, false positives, false negatives, precision, recall, and F1-score for both models.
 
-![Python evaluation results showing model performance metrics](images/evaluation-results.png)
+![Python evaluation results](images/evaluation-results.png)
 
 ### Key Findings
 
