@@ -88,13 +88,13 @@ The annotation process provided a reference against which the predictions from b
 
 The screenshot below shows the Label Studio annotation interface used to review named entities in the transcript samples.
 
-![Label Studio annotation interface showing transcript text and entity annotations](images/ner-annotation.png)
+![Label Studio annotation interface showing transcript text and entity annotations](images/ner-annotations.png)
 
 ### 2. Completed Annotation Tasks
 
 This screenshot shows the completed annotation tasks in Label Studio following the annotation review process.
 
-![Label Studio completed annotation tasks](images/completed-annotations.png)
+![Label Studio completed annotation tasks](images/completed-ner-annotations.png)
 
 ## Evaluation Methodology
 
